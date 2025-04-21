@@ -4,9 +4,10 @@ HsxMark
 
 You can call me Mark, because I don't know how to pronounce Hsx.
 
-- 🎓 Undergraduate in SUES-SMSE
+- 🎓 Undergraduate in SUES-MSE
+- 🪑 Majoring in Electronic Packaging Technology
 - 🔭 Interested in Hardware and Computer Science
-- 🛠️ Looking for something that's special
+- 🛠️ For the lovely ones
 - 🎨 Then why not play Minecraft!
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HsxMark&layout=compact)
